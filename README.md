@@ -7,7 +7,7 @@ A JS script that will implement a loading animation while a site with a lot of H
 
 ## How to implement
 
-Add the call to the script next to the closing <code></head></code> tag.
+Add the call to the script next to the closing <code>&lt;/head&gt;</code> tag.
 
 ```html
     <script src="js/loader.js"></script>    
