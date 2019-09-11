@@ -10,7 +10,7 @@ A JS script that will implement a loading animation while a site with a lot of H
 Add the call to the script next to the closing <code></head></code> tag.
 
 ```html
-<script src="js/loader.js"></script>    
+    <script src="js/loader.js"></script>    
   </head>
   <body>
     <!-- A lot of content to be loaded -->
