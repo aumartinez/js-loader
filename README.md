@@ -19,4 +19,4 @@ The loader will be called from the JS folder and will add a spinning wheel to th
 
 Here is a preview of the loader working:
 
-![Screemshot](https://raw.githubusercontent.com/aumartinez/js-loader/master/img/screenshot.PNG)
+![Screenshot](https://raw.githubusercontent.com/aumartinez/js-loader/master/img/screenshot.PNG)
